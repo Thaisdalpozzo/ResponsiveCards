@@ -1,3 +1,5 @@
 # ResponsiveCards #GirlCoding
  Cards responsivos 
-![image](https://user-images.githubusercontent.com/66601480/120238452-b1148f00-c232-11eb-8d65-9af7183b5ed7.png)
+ 
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/66601480/120238809-5af41b80-c233-11eb-94de-22c0d482005d.gif)
+
