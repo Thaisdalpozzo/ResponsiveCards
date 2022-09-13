@@ -1,5 +1,5 @@
-# ResponsiveCards #GirlCoding
- Cards responsivos 
+# ResponsiveCards
+ Cards responsivos como intuito de vender produtos.
  
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/66601480/120238809-5af41b80-c233-11eb-94de-22c0d482005d.gif)
 ![Captura de Tela (64)](https://user-images.githubusercontent.com/66601480/120239008-c4742a00-c233-11eb-876a-b32293b19f77.png)
